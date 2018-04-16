@@ -21,15 +21,15 @@ class VnpssSpider(scrapy.Spider):
             )
         if money:
             if KVM_text != "KVM: no stock":
-                body = u"KVM，上架，尽快购买！"
-                subject = u'KVM上架'
+                body = u"KVM shelves！！！！"
+                subject = u'KVM shelves'
                 mailer.send(to = ["1486162155@qq.com", "wxy148616@163.com"], subject = subject.encode("utf-8"),
                             body = body.encode("utf-8"))
             if OVZ_text != "OVZ: no stock":
-                body = u"OVZ，上架，尽快购买！"
-                subject = u'OVZ上架'
+                body = u"OVZ shelves！"
+                subject = u'OVZ shelves'
                 mailer.send(to = ["1486162155@qq.com", "wxy148616@163.com"], subject = subject.encode("utf-8"),
                             body = body.encode("utf-8"))
-        body = u"没有上架商品..."
-        subject = u'vpn爬虫'
+        body = u"not shop"
+        subject = u'vpn spider'
         mailer.send(to = ["1486162155@qq.com", "wxy148616@163.com"], subject = subject.encode("utf-8"), body = body.encode("utf-8"))

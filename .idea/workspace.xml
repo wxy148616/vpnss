@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1629cb7-e8bf-47b3-b521-7ddc467e1d64" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wangxvyang.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vpnSpider/vpnSpider/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vpnSpider/vpnSpider/spiders/vnpss.py" beforeDir="false" afterPath="$PROJECT_DIR$/vpnSpider/vpnSpider/spiders/vnpss.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +16,8 @@
       <file leaf-file-name="vnpss.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vpnSpider/vpnSpider/spiders/vnpss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="561">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
               <folding>
                 <element signature="e#24#37#0" expanded="true" />
               </folding>
@@ -170,7 +165,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="73" width="1548" height="991" extended-state="0" />
+    <frame x="113" y="24" width="1548" height="991" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -214,8 +209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vpnSpider/vpnSpider/spiders/vnpss.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="561">
+          <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
           <folding>
             <element signature="e#24#37#0" expanded="true" />
           </folding>
